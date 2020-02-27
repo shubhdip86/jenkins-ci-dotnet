@@ -12,6 +12,7 @@ namespace MyWindowsService
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// this is for testing purpose
         static void Main()
         {
             ServiceBase[] ServicesToRun;
